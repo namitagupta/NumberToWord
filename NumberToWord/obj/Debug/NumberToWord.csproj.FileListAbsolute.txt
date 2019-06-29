@@ -1,0 +1,7 @@
+D:\Work\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csprojAssemblyReference.cache
+D:\Work\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csproj.CoreCompileInputs.cache
+D:\Work\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+D:\Work\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+D:\Work\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+D:\Work\NumberToWord\NumberToWord\obj\Debug\NumberToWord.exe
+D:\Work\NumberToWord\NumberToWord\obj\Debug\NumberToWord.pdb
